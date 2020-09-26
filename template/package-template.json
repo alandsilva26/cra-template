@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "description": "",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "author": "Alan Dsilva <alandsilva2001@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alan/< >.git",
+    "directory": "packages/< >"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/< >/issues"
+  },
+  "homepage": "/",
+  "keywords": ["react"],
+  "contributors": [
+    "Alan Dsilva <alandsilva2001@gmail.com> (https://alandsilva.netlify.app)"
+  ]
+}
